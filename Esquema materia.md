@@ -1,4 +1,4 @@
-Excelente, ajustaré el detalle de cada clase para que entre uno y tres puntos estén relacionados con el trabajo práctico de desarrollar una especificación para un CRM como HubSpot. Aquí está el desarrollo temático ajustado:
+# Desarrollo programa 2024
 
 ### Clase 1: Introducción a la Ingeniería de Requerimientos
 1. **Conceptos Básicos de Ingeniería de Requerimientos**.
