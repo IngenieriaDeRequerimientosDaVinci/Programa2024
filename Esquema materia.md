@@ -8,11 +8,11 @@
 5. **Actividad**: Brainstorming sobre funcionalidades clave de un CRM como HubSpot.
 
 ### Clase 2: Requerimientos Funcionales y No Funcionales
-1. **Exploración de Requerimientos Funcionales y No Funcionales**【27†source】.
+1. **Exploración de Requerimientos Funcionales y No Funcionales**.
 2. **Análisis de Requerimientos Funcionales y No Funcionales en HubSpot**.
 3. **Actividad Práctica**: Identificar y clasificar requerimientos en HubSpot.
 4. **Discusión Grupal sobre la importancia de los Requerimientos No Funcionales**.
-5. **Tarea**: Investigar sobre atributos de calidad específicos de HubSpot【38†source】.
+5. **Tarea**: Investigar sobre atributos de calidad específicos de HubSpot.
 
 ### Clase 3: Técnicas de Extracción de Requerimientos
 1. **Métodos de Extracción de Requerimientos**.
@@ -22,14 +22,14 @@
 5. **Actividad**: Elaboración de una lista preliminar de requerimientos para HubSpot.
 
 ### Clase 4: Especificación de Requerimientos
-1. **Estructura de una Especificación de Requerimientos**【35†source】.
+1. **Estructura de una Especificación de Requerimientos**.
 2. **Ejemplo de Especificación en Proyecto MADEJA aplicado a HubSpot**.
 3. **Taller de Especificación**: Elaborar una especificación para el CRM.
 4. **Discusión Grupal sobre la claridad y detalle en especificaciones**.
 5. **Actividad**: Iniciar la redacción de la especificación para el CRM como HubSpot.
 
 ### Clase 5: Modelado de Requerimientos
-1. **Introducción al Modelado de Requerimientos con UML**【36†source】.
+1. **Introducción al Modelado de Requerimientos con UML**.
 2. **Creación de Diagramas de Casos de Uso para HubSpot**.
 3. **Taller de Casos de Uso**: Desarrollar casos de uso específicos para HubSpot.
 4. **Discusión Grupal sobre la interpretación de casos de uso en CRMs**.
