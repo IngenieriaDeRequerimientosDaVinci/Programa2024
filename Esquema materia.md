@@ -57,9 +57,7 @@
 2. **Taller de Mejora de la Especificación para HubSpot**.
 3. **Análisis de Requerimientos No Funcionales específicos de HubSpot**【38†source】.
 4. **Discusión Grupal sobre la importancia de los Requerimientos No Funcionales en CRMs**.
-5. **Activ
-
-idad**: Mejorar y ampliar la especificación del CRM.
+5. **Actividad**: Mejorar y ampliar la especificación del CRM.
 
 ### Clase 10: Metodologías de Desarrollo de Software
 1. **Comparación de Metodologías Ágiles y Tradicionales**.
