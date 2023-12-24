@@ -10,7 +10,7 @@ Imaginemos que se está desarrollando un sistema de gestión para una biblioteca
 ### Mindmap
 
 ```mermaid
-graph TD
+graph LR
     A[Requerimientos en Ingeniería de Software] --> B[Concepción]
     A --> C[Indagación]
     A --> D[Elaboración]
